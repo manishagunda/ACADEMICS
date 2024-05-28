@@ -1,0 +1,17 @@
+a=10
+b=20.5
+c=10+6j
+print(a,b,c)
+print(b)
+print(c)
+print(type(a))
+print(type(b))
+print(type(c))
+a=float(a)
+print(a)
+a=complex(a)
+print(a)
+b=int(b)
+print(b)
+b=complex(b)
+print(b)
